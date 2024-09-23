@@ -175,7 +175,7 @@ git reset
 
 > git reset will revet a git add. 
 
-## Status
+## Status   jkjl
 
 Git status shows you what files will or will not be commited.
 
